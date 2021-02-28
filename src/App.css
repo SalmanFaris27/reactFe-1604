@@ -1,0 +1,11 @@
+.bg-modal {
+  background-color: #1e1923 !important;
+  color: white !important;
+}
+
+.heart:hover {
+  color: red !important;
+}
+.share:hover {
+  color: rgb(76, 162, 243) !important;
+}
